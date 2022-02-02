@@ -1,0 +1,20 @@
+.mybanniere{
+    background-image: url(../img/japan.jpeg);
+    background-size:cover;
+    height: 400px;;
+}
+
+.myCard{
+    max-width: 1000px;
+    height: auto;
+}
+
+body{
+    background-color: grey;
+}
+
+.mt-n1{
+    margin-left: -0.79rem !important;
+    margin-top: -0.05rem !important;
+    margin-bottom: -0.05rem !important;
+}

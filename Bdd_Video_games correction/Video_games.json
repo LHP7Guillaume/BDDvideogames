@@ -1,0 +1,62 @@
+[
+	{
+		"Identifiant" : 60,
+		"Nom_du_jeu" : "God Of War",
+		"Mode_de_jeu" : "Solo",
+		"Pegi" : 18,
+		"Studio" : "SCE Santa Monica Studio",
+		"Date_de_sortie" : "2018-04-18 02:00:00",
+		"Genre" : "Action",
+		"Jouable_sur" : "PC,PlayStation 4",
+		"cover" : "god-of-war.jpeg",
+		"descriptions" : "Dans ce nouvel épisode de God Of War, le héros évoluera dans un monde aux inspirations nordiques, très forestier et montagneux. Dans ce beat-them-all, un enfant accompagnera le héros principal, pouvant apprendre des actions du joueur, et même gagner de l expérience."
+	},
+	{
+		"Identifiant" : 61,
+		"Nom_du_jeu" : "Splatoon 2",
+		"Mode_de_jeu" : "Multijoueur",
+		"Pegi" : 7,
+		"Studio" : "Nintendo EOD",
+		"Date_de_sortie" : "2017-07-21 02:00:00",
+		"Genre" : "Action",
+		"Jouable_sur" : "Nintendo Switch",
+		"cover" : "SPLATOON-2.webp",
+		"descriptions" : "Tout comme dans le premier opus, le joueur incarne un « Inkling » ou un « Octaling » (une fois l histoire du DLC Octo Expansion terminée) qu’il peut transformer en humain (notamment pour tirer) ou en calamar pour se déplacer plus rapidement dans l encre."
+	},
+	{
+		"Identifiant" : 62,
+		"Nom_du_jeu" : "Resident evil 2 Remake",
+		"Mode_de_jeu" : "Solo",
+		"Pegi" : 18,
+		"Studio" : "Capcom",
+		"Date_de_sortie" : "2018-01-25 01:00:00",
+		"Genre" : "Survival Horror",
+		"Jouable_sur" : "PlayStation 4,Xbox One",
+		"cover" : "resident_evil_2.jpeg",
+		"descriptions" : "Le jeu est le remake de Resident Evil 2 sorti en 1998. Il s agit d un survival-horror dans lequel le joueur peut incarner Leon S. Kennedy et Claire Redfield. Ces derniers tentent de survivre alors que la ville de Raccoon City est entièrement infestée par le virus-T Les personnages Ada Wong et Sherry Birkin seront aussi jouables, ainsi que Hunk et Tofu dans la version définitive du jeu."
+	},
+	{
+		"Identifiant" : 63,
+		"Nom_du_jeu" : "Death Stranding",
+		"Mode_de_jeu" : "Solo / Multijoueur",
+		"Pegi" : 18,
+		"Studio" : "Sony Interactive Entertainment",
+		"Date_de_sortie" : "2019-11-08 01:00:00",
+		"Genre" : "Action",
+		"Jouable_sur" : "PC,PlayStation 4,PlayStation 5",
+		"cover" : "death_stranding.jpeg",
+		"descriptions" : "Death Stranding est un jeu d action dans lequel la mort fait partie intégrante du gameplay. La mort est un des thèmes principaux, et les développeurs ont fait en sorte que les joueurs ne la voient pas comme une fin. L histoire s annonce sombre dans cet univers futuriste et fantastique."
+	},
+	{
+		"Identifiant" : 64,
+		"Nom_du_jeu" : "Fifa 22",
+		"Mode_de_jeu" : "Solo / Multijoueur",
+		"Pegi" : 3,
+		"Studio" : "Electronics Arts",
+		"Date_de_sortie" : "2021-10-01 02:00:00",
+		"Genre" : "Football",
+		"Jouable_sur" : "Nintendo Switch,PlayStation 4,PlayStation 5,Xbox One,Xbox Series X/S",
+		"cover" : "fifa_22.webp",
+		"descriptions" : "Pour la première fois dans le mode Carrière, il est possible de créer son propre club avec son logo, son nom, ses couleurs, son stade, personnalisable par le joueur et de le gérer. Le joueur évolue également avec plus de moyens pour personnaliser son expérience dans le mode Carrière. Il apporte une refonte attendue depuis longtemps de l expérience de jeu, avec un contrôle total sur le développement et la progression de carrière de votre pro."
+	}
+]
